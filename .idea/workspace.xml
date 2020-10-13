@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f559afd-64a2-4e8c-983e-226e847978b2" name="Default Changelist" comment="commit 1">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/first-job_full.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Communication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freecourses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-layers-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-layers-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-layers-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-layers-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-layers-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3-layers-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3-layers-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3-layers-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Ellipse 11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Ellipse_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Polygon 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Polygon 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgEllipse-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgEllipse-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgEllipse-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgEllipse-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgEllipse-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgEllipse-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgImg-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgImg-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bgImg-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/courses-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/courses-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/courses-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/courses-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/courses-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/courses-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/freeImg-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/freeimg-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/freeimg-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/freeimg-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/freeimg-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/freeimg-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/16-layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/FULFIL_EDUCATION_logol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/sl-arrow_l.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/sl-arrow_r.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pexels-nappy-3360204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/warranty-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/warranty-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/warranty-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/three.r119.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/vanta.globe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/vanta.net.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/vanta.rings.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iDrOjVPhmAs75je9BXGPl114X9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Asqarjon\Asqarjon\qashqadaryo\first-job_full" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f559afd-64a2-4e8c-983e-226e847978b2" name="Default Changelist" comment="" />
+      <created>1601452974814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601452974814</updated>
+      <workItem from="1601452990540" duration="3604000" />
+      <workItem from="1601456793756" duration="277000" />
+      <workItem from="1601478529778" duration="16431000" />
+      <workItem from="1601533360182" duration="1377000" />
+      <workItem from="1601535808252" duration="75000" />
+      <workItem from="1602569217527" duration="363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1601534373895">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601534373895" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1601456207712">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1601456207712" />
+  </component>
+</project>
